@@ -29,7 +29,6 @@ namespace EmployeeWageComputation
                     break;
                 default:
                     empHrs = 0;
-                    Console.WriteLine("Employee is Absent");
                     break;
             }
 
